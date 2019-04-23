@@ -1,4 +1,4 @@
--- Name: Birth of the Atlantis WSDVersion
+-- Name: V2 Birth of the Atlantis
 -- Description: You are the first crew of a new and improved version of the Atlantis space explorer.
 --- You must check out ship systems and complete an initial mission.
 -- Type: Mission
