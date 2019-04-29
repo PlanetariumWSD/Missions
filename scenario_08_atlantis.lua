@@ -3,6 +3,8 @@
 --- You must check out ship systems and complete an initial mission.
 -- Type: Mission
 
+-- Howdy from PiGuy
+
 --[[Problems
 no rep at start....
 Unclear who to contact for first mission
